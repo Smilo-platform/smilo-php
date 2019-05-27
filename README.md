@@ -1,6 +1,6 @@
 # Smilo-PHP
 
-is a typed PHP-7.1+ interface to [Smilo JSON-RPC API](https://github.com/ethereum/wiki/wiki/JSON-RPC).
+is a typed PHP-7.1+ interface to [Smilo JSON-RPC API](https://github.com/Smilo-platform/go-smilo/wiki/JSON-RPC).
 
 Check out the latest [API documentation](http://ethereum-php.org/dev/).
 
@@ -94,6 +94,6 @@ To *write* to the blockchain you need a to sign transactions with a private key 
 
 The API documentation is available at [ethereum-php.org](http://ethereum-php.org/).
 
-For reference see the [Ethereum RPC documentation](https://github.com/ethereum/wiki/wiki/JSON-RPC) and for data encoding [RLP dcumentation](https://github.com/ethereum/wiki/wiki/RLP) in [Ethereum Wiki](https://github.com/ethereum/wiki).
+For reference see the [Ethereum RPC documentation](https://github.com/Smilo-platform/go-smilo/wiki/JSON-RPC) and for data encoding [RLP dcumentation](https://github.com/Smilo-platform/go-smilo/wiki/RLP) in [Smilo Wiki](https://github.com/Smilo-platform/go-smilo/wiki).
 
 There is also a more readable [Ethereum Frontier Guide](http://ethereum.gitbooks.io/frontier-guide/content/rpc.html) version.
