@@ -92,8 +92,5 @@ To *write* to the blockchain you need a to sign transactions with a private key 
 
 ### Documentation
 
-The API documentation is available at [ethereum-php.org](http://ethereum-php.org/).
+For reference see the [Smilo RPC documentation](https://github.com/Smilo-platform/go-smilo/wiki/JSON-RPC) and for data encoding [RLP dcumentation](https://github.com/Smilo-platform/go-smilo/wiki/RLP) in [Smilo Wiki](https://github.com/Smilo-platform/go-smilo/wiki).
 
-For reference see the [Ethereum RPC documentation](https://github.com/Smilo-platform/go-smilo/wiki/JSON-RPC) and for data encoding [RLP dcumentation](https://github.com/Smilo-platform/go-smilo/wiki/RLP) in [Smilo Wiki](https://github.com/Smilo-platform/go-smilo/wiki).
-
-There is also a more readable [Ethereum Frontier Guide](http://ethereum.gitbooks.io/frontier-guide/content/rpc.html) version.
